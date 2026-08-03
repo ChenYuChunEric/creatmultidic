@@ -12,6 +12,8 @@ import os
 from datetime import datetime, timedelta
 from typing import List, Dict, Any, Tuple
 
+__version__ = "0.0.1"
+
 
 def int_to_chinese_number(num: int) -> str:
     """

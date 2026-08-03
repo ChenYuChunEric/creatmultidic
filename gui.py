@@ -8,7 +8,7 @@ from datetime import datetime
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, scrolledtext
 
-from folder_creator import FolderCreator
+from folder_creator import FolderCreator, __version__
 
 
 class FolderCreatorGUI(tk.Tk):
@@ -17,7 +17,7 @@ class FolderCreatorGUI(tk.Tk):
     def __init__(self) -> None:
         super().__init__()
 
-        self.title("📂 批次資料夾建立工具 (Batch Folder Creator)")
+        self.title(f"📂 批次資料夾建立工具 v{__version__} (Batch Folder Creator)")
         self.geometry("680x560")
         self.minsize(600, 480)
 

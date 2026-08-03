@@ -1,4 +1,4 @@
-# 批次資料夾建立工具 (Batch Folder Creator)
+# 批次資料夾建立工具 v0.0.1 (Batch Folder Creator)
 
 一個輕量、模組化且具備 GUI 圖形介面與 CLI 命令列介面的 Python 批次資料夾建立工具。無需安裝任何第三方套件，完全基於 Python 3 標準函式庫。
 
@@ -6,9 +6,9 @@
 
 ## 🌟 核心功能特色
 
-1. **獨立 GUI 視窗介面（免開 PowerShell / CMD）**
+1. **獨立 GUI 視窗介面 / EXE 檔（免開 PowerShell / CMD）**
    - 直覺的分頁頁籤設計、路徑選取器與即時執行結果日誌。
-   - 雙擊即可開啟應用程式視窗，無黑色控制台干擾。
+   - 雙擊 `creatmultidic.exe` 或 `run_gui.bat` / `gui.pyw` 即可直接開啟視窗介面，無黑色控制台黑視窗干擾。
 
 2. **指定輸出路徑 (目標資料夾)**
    - 支援 GUI 點擊「📁 瀏覽」按鈕直接選取資料夾。

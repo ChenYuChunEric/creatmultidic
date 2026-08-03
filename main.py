@@ -5,7 +5,7 @@ main.py - 批次資料夾建立工具的 CLI 互動式介面
 import sys
 from datetime import datetime
 from typing import List, Dict, Any
-from folder_creator import FolderCreator
+from folder_creator import FolderCreator, __version__
 
 
 def print_divider(char: str = "=", length: int = 60) -> None:
@@ -156,7 +156,7 @@ def main() -> None:
 
     while True:
         print_divider("=")
-        print("        📂 批次資料夾建立工具 (Batch Folder Creator)")
+        print(f"        📂 批次資料夾建立工具 v{__version__} (Batch Folder Creator)")
         print_divider("=")
         print(f"📍 當前目標資料夾路徑: {creator.target_path}")
         print_divider("-")
