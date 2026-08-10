@@ -2,6 +2,10 @@
 
 一個輕量、模組化且具備 GUI 圖形介面與 CLI 命令列介面的 Python 批次資料夾建立工具。無需安裝任何第三方套件，完全基於 Python 3 標準函式庫。
 
+▶ 點擊縮圖即可播放影片
+
+[![Watch the video](https://img.youtube.com/vi/XnJJ150gcpo.jpg)](https://www.youtube.com/watch?v=XnJJ150gcpo)
+
 ---
 
 ## 🌟 核心功能特色
