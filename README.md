@@ -4,7 +4,7 @@
 
 ▶ 點擊縮圖即可播放影片
 
-[![Watch the video](https://img.youtube.com/vi/XnJJ150gcpo.jpg)](https://www.youtube.com/watch?v=XnJJ150gcpo)
+[![Watch the video](https://img.youtube.com/vi/XnJJ150gcpo/0.jpg)](https://www.youtube.com/watch?v=XnJJ150gcpo)
 
 ---
 
